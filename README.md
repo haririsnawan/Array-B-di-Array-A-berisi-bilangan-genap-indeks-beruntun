@@ -1,0 +1,1 @@
+# Array-B-di-Array-A-berisi-bilangan-genap-indeks-beruntun
